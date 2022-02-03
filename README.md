@@ -1,2 +1,2 @@
-# padalecg.github.io-
+# padalecg.github.io
 Personal Website - MI 472 
