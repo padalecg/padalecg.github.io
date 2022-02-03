@@ -1,2 +1,2 @@
 # padalecg.github.io
-Personal Website - MI 472 
+Personal Website - MI 472 assignment
