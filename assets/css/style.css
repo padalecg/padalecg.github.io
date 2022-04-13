@@ -194,7 +194,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 .nav-menu a:hover, .nav-menu .active, .nav-menu .active:focus, .nav-menu li:hover > a {
   color: #fff;
-  background: #F5C1CF;
+  background: #9F6E72;
 }
 .nav-menu a:hover span, .nav-menu .active span, .nav-menu .active:focus span, .nav-menu li:hover > a span {
   color: #fff;
@@ -378,7 +378,7 @@ section {
 .about .content ul i {
   font-size: 16px;
   margin-right: 5px;
-  color: #0563bb;
+  color: #9F6E72
   line-height: 0;
 }
 .about .content p:last-child {
@@ -464,12 +464,12 @@ section {
   font-weight: 700;
   margin-top: 20px;
   margin-bottom: 20px;
-  color: #45505b;
+  color: #9F6E72;
 }
 .resume .resume-item {
   padding: 0 0 20px 20px;
   margin-top: -2px;
-  border-left: 2px solid #0563bb;
+  border-left: 2px solid #9F6E72;
   position: relative;
 }
 .resume .resume-item h4 {
@@ -478,7 +478,7 @@ section {
   font-weight: 600;
   text-transform: uppercase;
   font-family: "Poppins", sans-serif;
-  color: #0563bb;
+  color: #9F6E72;
   margin-bottom: 10px;
 }
 .resume .resume-item h5 {
@@ -507,7 +507,7 @@ section {
   left: -9px;
   top: 0;
   background: #fff;
-  border: 2px solid #0563bb;
+  border: 2px solid #9F6E72;
 }
 
 /*--------------------------------------------------------------
@@ -809,6 +809,7 @@ section {
   fill: #11dbcf;
 }
 
+
 /*--------------------------------------------------------------
 # Testimonials
 --------------------------------------------------------------*/
@@ -1004,12 +1005,13 @@ section {
 # Footer
 --------------------------------------------------------------*/
 #footer {
-  background: #f7f8f9;
+  
   color: #45505b;
   font-size: 14px;
   text-align: center;
   padding: 30px 0;
 }
+
 #footer h3 {
   font-size: 36px;
   font-weight: 700;
@@ -1042,7 +1044,7 @@ section {
   transition: 0.3s;
 }
 #footer .social-links a:hover {
-  background: #0678e3;
+  background: #9F6E72;
   color: #fff;
   text-decoration: none;
 }
