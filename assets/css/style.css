@@ -11,11 +11,12 @@
 body {
   font-family: "Open Sans", sans-serif;
   color: #272829;
-  background-color: #EDC7B7;
+  background-color: #C49A7A;
+ /* background-color: #EDC7B7;*/
 }
 
 a {
-  color: #0563bb;
+  color: #BE969A;
   text-decoration: none;
 }
 
@@ -191,7 +192,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 .nav-menu a:hover, .nav-menu .active, .nav-menu .active:focus, .nav-menu li:hover > a {
   color: #fff;
-  background: #0563bb;
+  background: #b88bbe;
 }
 .nav-menu a:hover span, .nav-menu .active span, .nav-menu .active:focus span, .nav-menu li:hover > a span {
   color: #fff;
